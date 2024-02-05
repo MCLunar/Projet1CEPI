@@ -1,0 +1,44 @@
+fr/imt/cepi/servlet/HostServlet.java
+ fr.imt.cepi.servlet.HostServlet
+fr/imt/cepi/servlet/GuestServlet.java
+ fr.imt.cepi.servlet.GuestServlet
+fr/imt/cepi/servlet/filters/AuthenticationFilter.java
+ fr.imt.cepi.servlet.filters.AuthenticationFilter
+fr/imt/cepi/servlet/EndServlet.java
+ fr.imt.cepi.servlet.EndServlet
+fr/imt/cepi/servlet/errorhandler/AppErrorHandler.java
+ fr.imt.cepi.servlet.errorhandler.AppErrorHandler
+fr/imt/cepi/servlet/WaitingRoomServlet.java
+ fr.imt.cepi.servlet.WaitingRoomServlet
+fr/imt/cepi/servlet/LogoutServlet.java
+ fr.imt.cepi.servlet.LogoutServlet
+fr/imt/cepi/servlet/Message.java
+ fr.imt.cepi.servlet.Message
+fr/imt/cepi/servlet/HomeServlet.java
+ fr.imt.cepi.servlet.HomeServlet
+fr/imt/cepi/servlet/MessageEncoder.java
+ fr.imt.cepi.servlet.MessageEncoder
+fr/imt/cepi/servlet/AttributionRoleServlet.java
+ fr.imt.cepi.servlet.AttributionRoleServlet
+fr/imt/cepi/servlet/MessageDecoder.java
+ fr.imt.cepi.servlet.MessageDecoder
+fr/imt/cepi/servlet/GameBoardCompanyServlet.java
+ fr.imt.cepi.servlet.GameBoardCompanyServlet
+fr/imt/cepi/bean/Joueur.java
+ fr.imt.cepi.bean.Joueur
+fr/imt/cepi/bean/Partie.java
+ fr.imt.cepi.bean.Partie
+fr/imt/cepi/bean/Code.java
+ fr.imt.cepi.bean.Code
+fr/imt/cepi/servlet/GenCodeServlet.java
+ fr.imt.cepi.servlet.GenCodeServlet
+fr/imt/cepi/servlet/GameBoardCommunityServlet.java
+ fr.imt.cepi.servlet.GameBoardCommunityServlet
+fr/imt/cepi/servlet/ChatEndpoint.java
+ fr.imt.cepi.servlet.ChatEndpoint
+fr/imt/cepi/servlet/GameBoardStateServlet.java
+ fr.imt.cepi.servlet.GameBoardStateServlet
+fr/imt/cepi/servlet/listeners/AppContextListener.java
+ fr.imt.cepi.servlet.listeners.AppContextListener
+fr/imt/cepi/servlet/LoginServlet.java
+ fr.imt.cepi.servlet.LoginServlet

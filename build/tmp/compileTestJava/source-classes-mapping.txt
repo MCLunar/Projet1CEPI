@@ -1,0 +1,4 @@
+fr/imt/cepi/TestSelenium.java
+ fr.imt.cepi.TestSelenium
+fr/imt/cepi/TestLoginServlet.java
+ fr.imt.cepi.TestLoginServlet
